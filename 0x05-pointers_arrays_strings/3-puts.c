@@ -2,7 +2,7 @@
 
  * File: 3-puts.c
 */
- #include "holberton.h"
+ #include "main.h"
 
 
 /**
